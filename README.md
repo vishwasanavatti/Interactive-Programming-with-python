@@ -1,3 +1,4 @@
 # hobby_projects
 
-Code runs on http://www.codeskulptor.org/
+open http://www.codeskulptor.org/
+copy the code and run it
